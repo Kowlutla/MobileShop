@@ -1,0 +1,7 @@
+celkon			celkon9		999.0
+oppo			oppof7		7059.0
+oppo			oppo3		7899.0
+vivo			vivov4		7999.0
+redmi			redmi3s		8500.0
+vivo			vivoy81		9000.0
+iphone			iphone1		100000.0
